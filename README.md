@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Kevin Tu`
+- **CCID:** `ktu3`
 
 ## References and Resources
 
